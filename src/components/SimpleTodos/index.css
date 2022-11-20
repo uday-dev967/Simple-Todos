@@ -1,0 +1,27 @@
+.container {
+  padding: 30px;
+  background-color: #ffc2a0;
+  background-size: cover;
+  min-height: 100vh;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  padding: 30px;
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  min-width: 80%;
+}
+
+.heading {
+  text-align: center;
+  color: #ff8542;
+}
+
+.list-container {
+  list-style-type: none;
+}

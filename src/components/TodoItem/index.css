@@ -1,0 +1,28 @@
+.list-item {
+  margin: 5px;
+}
+
+.todo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  align-items: center;
+}
+
+.button {
+  color: #ff0b37;
+  border-style: solid;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #ffffff;
+}
+
+.todo {
+  color: #000000;
+  font-weight: 700;
+}
